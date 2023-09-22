@@ -5,7 +5,7 @@ programa que calcule la edad a partir de el año de nacimiento
 * hacer la resta correspondiente
 * Fin
 
-![](file:///D:/YED/DFP%20ACT3.jpg)
+![DFP ACT3](https://github.com/Alexcairo23/Diagramas-ICI/assets/144750904/c7d3da0a-fa92-4691-93bd-ee66c5e226e2)
 
 <table>
 <thead>
