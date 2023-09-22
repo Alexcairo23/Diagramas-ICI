@@ -6,7 +6,7 @@ obtenga el promedio de tres numeros cualquiera
 * el promedio es (res)
 * fin
 
-![](file:///D:/YED/DFP%20ACT2.jpg)
+![DFP ACT2](https://github.com/Alexcairo23/Diagramas-ICI/assets/144750904/59d33f52-75c2-4292-b09b-2394a8126c7a)
 
 <table>
 <thead>
