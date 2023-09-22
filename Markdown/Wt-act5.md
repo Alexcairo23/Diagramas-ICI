@@ -8,7 +8,7 @@ obtenga el promedio de n numeros positivos leidos desde el teclado
 * si ya no hay numeros retornar para ciclar
 * dividir los numeros entre si
 * Fin
-![DFP ACT5](https://github.com/Alexcairo23/Diagramas-ICI/assets/144750904/f630beb1-ef78-4eea-911b-a02c94b39acd)
+![](file:///D:/YED/DFP%20ACT5.jpg)  
 
 <table>
 <thead>
