@@ -5,7 +5,7 @@ programa que obtenga el promedio de n numeros leidos positivos
 * calcularlos entre los dos (n1+n2)/2
 * Fin    
 
-![](file:///D:/YED/DFP%20ACT4.jpg)  
+![DFP ACT4](https://github.com/Alexcairo23/Diagramas-ICI/assets/144750904/6083e1cd-f5cb-4a67-9471-dce38b3a613a)
 
 <table>
 <thead>
