@@ -5,8 +5,7 @@ diagrama que haga una secuencia de 1,0 infinito
 * mayor a  0
 * fin
  
- 
-![](file:///D:/YED/DFP%20ACT16.jpg)  
+![DFP ACT16](https://github.com/Alexcairo23/Diagramas-ICI/assets/144750904/63e7eaa4-4ccd-4cc7-b2fa-dde7e609e2ac)
   
 
 <table>
