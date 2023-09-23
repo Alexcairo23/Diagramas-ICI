@@ -3,8 +3,7 @@ escriba un diagrama que dado al año de nacimiento indique cuantos años va a cu
 * ingrese año de nacimiento
 * ser menor a 2023
 * fin  
-
-![](file:///D:/YED/DFP%20ACT12.jpg)  
+![DFP ACT12](https://github.com/Alexcairo23/Diagramas-ICI/assets/144750904/8853a46c-889e-4a30-bc4b-cbfba7e0996e)
  
 <table>
 <thead>
