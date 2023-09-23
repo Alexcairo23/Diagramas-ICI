@@ -6,7 +6,7 @@ obtenga la suma de cinco numeros capturados entre 5 y 10
 * fin
 
 
-![](file:///D:/YED/DFP%20ACT13.jpg)
+![DFP ACT13](https://github.com/Alexcairo23/Diagramas-ICI/assets/144750904/9f98cd61-8b2c-4201-971c-e2be8d505961)
 
 <table>
 <thead>
