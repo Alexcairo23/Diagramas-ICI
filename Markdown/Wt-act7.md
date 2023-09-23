@@ -6,7 +6,7 @@ se desea saber la cantidad de alumnos que pasaron una materia son 10 y la califi
 * mostar el total
 * fin
 
-![](file:///D:/YED/DFP%20ACT7.jpg)  
+![DFP ACT7](https://github.com/Alexcairo23/Diagramas-ICI/assets/144750904/2fec5e5f-faa6-42d3-80b9-ac77dfe83ad6)
 
 <table>
 <thead>
