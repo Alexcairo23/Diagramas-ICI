@@ -4,7 +4,7 @@ obtenga la suma de todos los cuadrados de n numeros ingresados desde el teclado
 * acumular los contadores
 * multiplicarlos y almacenarlos
 * fin  
-![](file:///D:/YED/DFP%20ACT10.jpg)  
+![DFP-ACT 10](https://github.com/Alexcairo23/Diagramas-ICI/assets/144750904/8fff5533-6023-400f-bd4d-dd2851aa61e6)
 
 <table>
 <thead>
