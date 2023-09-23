@@ -6,5 +6,5 @@ una empresa desea calcular el sueldo total de una persona bajo los siguientes ru
 * sueldo total =siueldo base+0.05*sueldo base+0.05 sueldo base -icr impuestos al sat = valor icr
 * fin  
 
-![](file:///D:/YED/DFP%20ACT14.jpg)
+![DFP ACT14](https://github.com/Alexcairo23/Diagramas-ICI/assets/144750904/0e74cf48-df1a-45b2-8a86-1f13dd5a5943)
 
