@@ -6,7 +6,7 @@ captura de n numeros enteros positivos obtenga la suma de los cadrados de los pa
 * si es impar multiplicarlo por si mismo 3 veces
 * preguntar si hay mas
 * fin
-![](file:///D:/YED/DFP%20ACT11.jpg)  
+![DFP ACT11](https://github.com/Alexcairo23/Diagramas-ICI/assets/144750904/d80e46e7-34ed-45c0-a45a-7aff0b3d895e)
 
 <table>
 <thead>
