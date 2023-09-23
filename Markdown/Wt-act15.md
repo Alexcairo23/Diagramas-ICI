@@ -7,7 +7,7 @@ genere una secuencia de 01010101101
 * i,c
 * fin  
   
-![](file:///D:/YED/DFP%20ACT%2015.jpg)  
+![DFP ACT 15](https://github.com/Alexcairo23/Diagramas-ICI/assets/144750904/8dead67e-8e24-40f0-99f3-4854bebbfd8e) 
 
 <table>
 <thead>
