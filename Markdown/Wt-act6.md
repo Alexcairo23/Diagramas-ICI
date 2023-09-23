@@ -6,7 +6,7 @@ programa para obtener la edad promedio de n personas preguntandole su año de na
 * ingresar el año de nacimiento de las personas
 * restar a los contadores
 * Fin  
-![](file:///D:/YED/DFP%20ACT6.jpg)  
+![DFP ACT6](https://github.com/Alexcairo23/Diagramas-ICI/assets/144750904/ac6e1ff6-495e-4dae-a76e-f1f4479a37b4)
 
 <table>
 <thead>
