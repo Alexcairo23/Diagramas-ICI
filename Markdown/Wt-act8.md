@@ -4,7 +4,7 @@ escriba un diagrama que calcule el cuadrado de un numero positivo desde teclado
 * ver que sea mayor a 0
 * multiplicarlo por si mismo
 * fin  
-![](file:///D:/YED/DFP%20ACT8.jpg)  
+![DFP ACT8](https://github.com/Alexcairo23/Diagramas-ICI/assets/144750904/de532280-8eae-40fd-8af1-e14746192195)
 
 <table>
 <thead>
