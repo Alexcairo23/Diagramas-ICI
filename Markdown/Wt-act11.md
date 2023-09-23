@@ -5,9 +5,8 @@ captura de n numeros enteros positivos obtenga la suma de los cadrados de los pa
 * si es positivo multiplicarlo por si mismo
 * si es impar multiplicarlo por si mismo 3 veces
 * preguntar si hay mas
-* fin
-
-![DFP ACT11](https://github.com/Alexcairo23/Diagramas-ICI/assets/144750904/d80e46e7-34ed-45c0-a45a-7aff0b3d895e)
+* fin  
+![DFP ACT11](https://github.com/Alexcairo23/Diagramas-ICI/assets/144750904/0410b06a-fe53-486c-9ee3-ac0c9a66bb70)
 
 <table>
 <thead>
@@ -52,4 +51,5 @@ captura de n numeros enteros positivos obtenga la suma de los cadrados de los pa
 	</tr>
 </tbody>
 </table>
+
 
